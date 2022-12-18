@@ -6,9 +6,15 @@ Data augmentation is an integral process in deep learning, as in deep learning w
 
 #### 2. Operations in data augmentation
 The most commonly used operations are-
+
 a. Rotation
+
 b. Shearing
+
 c. Zooming
+
 d. Cropping
+
 e. Flipping
+
 f. Changing the brightness level
