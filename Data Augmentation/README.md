@@ -19,4 +19,4 @@ e. Flipping
 
 f. Changing the brightness level
 
-Check out the documentation at this [link](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator).
+> Check out the documentation at this [link](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/image/ImageDataGenerator).
